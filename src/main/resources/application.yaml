@@ -1,3 +1,7 @@
 spring:
   application:
     name: tecsup-course-spring
+  datasource:
+    username: postgres
+    pasword: admin
+    url: jdbc:postgresql://localhost:5452/spring
